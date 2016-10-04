@@ -58,3 +58,8 @@ MNIST_data/
 
 # OSX stuff
 .DS_Store
+
+# iPython
+.ipynb_checkpoints/
+notes/logs/
+notes/ckpt_dir/
